@@ -201,3 +201,11 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 7ms (Views: 5.1ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 173.18.75.72 at 2020-01-28 05:08:57 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.1/gems/railties-5.0.7.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/railties-5.0.7.1/lib/rails/templates/rails/welcome/index.html.erb (4.8ms)
+Completed 200 OK in 20ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
